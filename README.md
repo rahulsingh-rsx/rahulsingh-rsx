@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulsingh-rsx
-- 👀 I’m interested in Medical Science & it's Supply Chain Operations.
+- 👀 I’m interested in Medical Science & it's Business Operations.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on project related to this niche.
 - 📫 How to reach me ...
